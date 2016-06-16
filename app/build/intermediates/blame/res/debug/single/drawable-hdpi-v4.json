@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_settings_pressed.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/tab_settings_pressed.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_weixin_pressed.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/tab_weixin_pressed.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_bar9.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/title_bar9.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottom_bar.9.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/bottom_bar.9.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_find_frd_normal.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/tab_find_frd_normal.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_bg2.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/tab_bg2.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_find_frd_pressed.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/tab_find_frd_pressed.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_weixin_normal.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/tab_weixin_normal.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_address_pressed.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/tab_address_pressed.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_settings_normal.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/tab_settings_normal.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_address_normal.png",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/drawable-hdpi/tab_address_normal.png"
+    }
+]

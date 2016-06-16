@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/layout/tab02.xml",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/layout/tab02.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/layout/tab03.xml",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/layout/tab03.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/layout/top.xml",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/layout/top.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/layout/bottom.xml",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/layout/bottom.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/layout/tab04.xml",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/layout/tab04.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab01/app/build/intermediates/res/merged/debug/layout/tab01.xml",
+        "source": "/Users/yushi/workspace/imooc-tab01/app/src/main/res/layout/tab01.xml"
+    }
+]
